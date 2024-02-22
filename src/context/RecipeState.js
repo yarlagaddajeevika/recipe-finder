@@ -27,6 +27,7 @@ const RecipeState = (props) => {
             .catch(err => console.error(err));
     }
 
+    //component mount
     useEffect(() => {
         fetchRecipe(`https://api.edamam.com/search?q=cheery&app_id=${id}&app_key=${apiKey}`)
     }, [])

@@ -17,7 +17,7 @@ A web application for finding, saving and organizing your favorite recipes.
 ## Getting Started
 1. Clone the repository to your local machine
 ```
-git clone https://github.com/imhardikdesai/Recipe-Finder-WebApp.git
+git clone https://github.com/yarlagaddajeevika/recipe-finder.git
 ```
 
 2. Install the required modules
@@ -31,12 +31,5 @@ npm run start
 ```
 
 4. Visit `http://localhost:3000` in your browser
-
-## Contributing
-1. Fork the repository
-2. Create a branch for your feature
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
 
 

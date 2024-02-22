@@ -34,9 +34,6 @@ We welcome code contributions from the community. To get started:
 6. Push your changes to your fork: `git push origin your-feature-name`.
 7. Create a pull request against the `main` branch of the main repository.
 
-## Getting Started
-
-If you're new to Recipe Finder WebApp, you can explore all features and give us feedback at hardikdesaitech@gmail.com
 
 ## Commit Guidelines
 
@@ -50,8 +47,4 @@ When creating a pull request, make sure it includes:
 - A description of the changes you've made and the problem it solves.
 - Any relevant issue references.
 
-Our maintainers will review your pull request, provide feedback, and merge it once it's ready.
 
-Thank you for your contributions!
-
-Recipe Finder WebApp Team
